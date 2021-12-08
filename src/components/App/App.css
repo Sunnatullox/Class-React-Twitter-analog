@@ -1,0 +1,12 @@
+.App
+{
+    margin: 50px auto;
+    max-width: 800px;
+    box-shadow: 1px 8px 16px rgb(0, 0, 0, .6);
+    background-color: #fff;
+    padding: 20px;
+}
+.searchpanel
+{
+    display: flex;
+}

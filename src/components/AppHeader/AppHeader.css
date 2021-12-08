@@ -1,0 +1,18 @@
+.app-header
+{
+    align-items: flex-end;
+    justify-content: space-between;
+}
+
+.app-headerh1
+{
+    font-size: 26px;
+    /* width: 150px;
+    height: 150px; */
+}
+
+.app-header h2
+{
+    font-size: 1.2rem;
+    color: gray;
+}
